@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
     "status"     : false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.toregali.toreali.bouchinc"
   },
   
   
@@ -18,9 +18,9 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 2,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -41,10 +41,10 @@
     "showClose": false,
     "adList": [
       {
-        "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
+        "preview": "https://play-lh.googleusercontent.com/oijIbBADvXpi85bEYQOmVvuXRzTuxHPjCifnn2gM8DjMUd8AnRmWfKXF_dFjVV3_TcouAWY3z_tNQjY9dp_R=w526-h296-rw",
         "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
-        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+        "button_url": "https://play.google.com/store/apps/details?id=com.toregali.toreali.bouchinc"
       }
     ]
   },
@@ -52,8 +52,8 @@
   "AppsPromote": [
     {
       "name": "Bob Marley Offline",
-      "packageName": "com.bob.marley1.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/d9rMA8e4ipIWJxMeUNySF-J2mmHXCVJ1Q3dJNIlFm8wYiSeaRyBJPLT1LzaQlujTL44=w240-h480-rw",
+      "packageName": "com.toregali.toreali.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/LjG629B1uOAeP5DN7m9SPACPLu4QsAiSqYWxvDrmqINN8q3RWG7UvMruuHcSxEt4NMwwfhiMBHcHw-VE_k4J=w240-h480-rw",
       "download": "+500K"
     },
     {
@@ -62,6 +62,9 @@
       "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
       "download": "+500K"
     }
+  ]
+  
+}
   ]
   
 }
