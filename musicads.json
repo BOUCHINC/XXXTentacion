@@ -37,27 +37,45 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : false,
-    "showClose": false,
+    "showPop"  : true,
+    "showClose": true,
     "adList": [
       {
         "preview": "https://play-lh.googleusercontent.com/oijIbBADvXpi85bEYQOmVvuXRzTuxHPjCifnn2gM8DjMUd8AnRmWfKXF_dFjVV3_TcouAWY3z_tNQjY9dp_R=w526-h296-rw",
-        "title": "Good new ! we added new app check it !",
+        "title": "Good new ! we added new app check it ! BOB MARLEY",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.toregali.toreali.bouchinc"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/rv6JZWh2w58SKiS5XtyaHafvU-mdQWcVh4oor-oinzD_gWyo9lx7im4-0xaC6qLaWA=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! LEO ROJAS",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.leo.rojas2.hugetech"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/C2Bq_rOd_uUqhWg6yTFnkf8fd0thHCmjR0PJ9ra0ztusD5GAckBDMYz-i42PNVw2SlI=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! SHATTA WALE",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.home.scapes2.frastudio"
       }
     ]
   },
   
   "AppsPromote": [
     {
-      "name": "Bob Marley Offline",
+      "name": "Leo Rojas - Offline",
+      "packageName": "com.leo.rojas2.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/C8QlFWdkXcNRKmpK9wDgQNrVsFT1m_BZWr5OMwHkZl1HSlH6VO0u9-Z1XyPzBqGS0m0=w240-h480-rw",
+      "download": "+500K"
+    },
+    {
+      "name": "Bob Marley - Offline",
       "packageName": "com.toregali.toreali.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/LjG629B1uOAeP5DN7m9SPACPLu4QsAiSqYWxvDrmqINN8q3RWG7UvMruuHcSxEt4NMwwfhiMBHcHw-VE_k4J=w240-h480-rw",
       "download": "+500K"
     },
     {
-      "name": "Shatta Wale Offline",
+      "name": "Shatta Wale - Offline",
       "packageName": "com.home.scapes2.frastudio",
       "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
       "download": "+500K"
