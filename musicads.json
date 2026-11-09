@@ -41,6 +41,18 @@
     "showClose": true,
     "adList": [
       {
+        "preview": "https://play-lh.googleusercontent.com/566Eogz-PS5h6QSt68p0fVBAwq8BkWQzoJ82-xj9ll7r2DoxaCE7Nt64QrJyf0sSwx-EzqkBtR4ZKWwJZYycYw=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! Dadju Songs",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.hamid.hiraad.bouchinc"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/Q351mv87998l7LMvkB2szRYfEiI0tpKZVTpoIFvLNYN8aNf77XHDQ-VHhyv-DsdlRQV2wSoI_08Bg083mnffbg=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! Maitre Gims",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.andy.song.bouchinc"
+      },
+      {
         "preview": "https://play-lh.googleusercontent.com/oijIbBADvXpi85bEYQOmVvuXRzTuxHPjCifnn2gM8DjMUd8AnRmWfKXF_dFjVV3_TcouAWY3z_tNQjY9dp_R=w526-h296-rw",
         "title": "Good new ! we added new app check it ! BOB MARLEY",
         "button_title": "Install now",
@@ -62,6 +74,18 @@
   },
   
   "AppsPromote": [
+    {
+      "name": "Dadju Songs - offline",
+      "packageName": "com.hamid.hiraad.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/kP99sntSNbBxoLlltWB1R78iEglxlvoGUpdc-rb_AGytPIWQdKyeXH9VGkalVxXdM0W7xP2Ej6ngqhC4rH5G=w240-h480-rw",
+      "download": "+400K"
+    },
+    {
+      "name": "Maitre Gims - offline",
+      "packageName": "com.andy.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/DONvDiSbD4PMdrT9pcbLG2crOZeNW5UwWpM_y3uXnRE9YRnK89syXQeuph1VsDT95oFPSmcfDXroukxWqvJhzw=w240-h480-rw",
+      "download": "+550K"
+    },
     {
       "name": "Leo Rojas - Offline",
       "packageName": "com.leo.rojas2.hugetech",
